@@ -16,5 +16,6 @@ build/
 # Data science specific
 .ipynb_checkpoints/
 *.csv
+readme_temp.md
 *.xlsx
 !data_template.csv
