@@ -18,3 +18,4 @@ build/
 *.csv
 *.xlsx
 !data_template.csv
+.python-version
