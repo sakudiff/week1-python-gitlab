@@ -19,3 +19,4 @@ build/
 readme_temp.md
 *.xlsx
 !data_template.csv
+.python-version
