@@ -29,7 +29,7 @@ uv run analyze.py
 # What it does
 Loads the data and fetches the Titanic dataset directly from the URL.
 
-Sumamrizes the data by printing the total number of rows/columns, a list of all the column names, and the first 5 rows to the console.
+Summarizes the data by printing the total number of rows/columns, a list of all the column names, and the first 5 rows to the console.
 
 It then cleans and processes the data by selecting the class and fare columns respectively, removing missing values to ensure the data is numeric.
 
