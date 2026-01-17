@@ -31,7 +31,7 @@ Loads the data and fetches the Titanic dataset directly from the URL.
 
 Sumamrizes the data by printing the total number of rows/columns, a list of all the column names, and the first 5 rows to the console.
 
-It then cleans and processes the data by selecting the class and fare columns respectively, removing missing values to ensure the data is numeric
+It then cleans and processes the data by selecting the class and fare columns respectively, removing missing values to ensure the data is numeric.
 
 It then calculates the averages and groups the data class calculates the average fare for each and prints the results sorted from highest to lowest.
 
@@ -40,6 +40,10 @@ To visualize the data it creates a bar chart of the average fares and it finally
 
 
 # Reflection
-The most challenging part of this lab was transitioning from traditional environment managers to the uv workflow, specifically managing the terminal commands required to sync dependencies correctly. I learned that Git staging is a vital step for reviewing changes and ensuring that environment files like .venv are not accidentally tracked in the repository. I also realized that using atomic commits with descriptive messages makes it much simpler to track the evolution of the project compared to using single, large updates.
+The most challenging part of this lab was transitioning from traditional environment managers to the uv workflow, specifically managing the terminal commands required to sync dependencies correctly. 
+
+We learned that Git staging is a vital step for reviewing changes and ensuring that environment files like .venv are not accidentally tracked in the repository. 
+
+In addition, we realized that using atomic commits with descriptive messages makes it much simpler to track the evolution of the project compared to using single, large updates.
 
 
