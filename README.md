@@ -1,7 +1,5 @@
 # Analysis of Titanic Fares by Class
 
-# Project
-
 
 name = "week1-python-gitlab"
 
