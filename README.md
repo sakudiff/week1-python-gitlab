@@ -1,17 +1,25 @@
 # Analysis of Titanic Fares by Class
 
 [project]
+
 name = "week1-python-gitlab"
+
 version = "0.1.0"
+
 description = "Automated exploratory data analysis and visualization pipeline for the Titanic dataset."
+
 readme = "README.md"
+
 requires-python = ">=3.11"
+
 dependencies = [
     "matplotlib>=3.10.0",
     "pandas>=2.2.0",
     "plotly>=6.0.0",
     "seaborn>=0.13.0",
 ]
+
+
 **Dataset chosen:** Titanic Data (https
 ://raw.githubusercontent.com/mwaskom/seaborn-data/master/titanic.csv)
 
